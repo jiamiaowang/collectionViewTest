@@ -14,4 +14,5 @@
 ![球形图片](https://github.com/jiamiaowang/collectionViewTest/blob/master/image/1%203.GIF)
 
 4、卡片式
+
 ![卡片式图片](https://github.com/jiamiaowang/collectionViewTest/blob/master/image/1%204.GIF)
